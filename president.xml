@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<racine>
+<president>
+  <image path= "./asset/Charles_de_Gaulles.jpeg" alt="president"/>
+  <nom>Charles de Gaulles</nom>
+  <Mandat>1959-1969</Mandat>
+  <Naissance>1890</Naissance>
+  <Status>1970</Status>
+</president>
+
+<president>
+  <image path= "./asset/George_Pompidou.jpeg" alt="president"/>
+  <nom>George Pompidous</nom>
+  <Mandat>1969-1974</Mandat>
+  <Naissance>1911</Naissance>
+  <Status>1974</Status>
+</president>
+
+<president>
+  <image path= "./asset/Valérie_Giscard_Estaing.jpeg" alt="president"/>
+  <nom>Valérie Giscard Estaing</nom>
+  <Mandat>1974-1981</Mandat>
+  <Naissance>1926</Naissance>
+  <Status>2020</Status>
+</president>
+
+<president>
+  <image path= "./asset/François_Mitterand.jpeg" alt="president"/>
+  <nom>François Mitterand</nom>
+  <Mandat>1981-1995</Mandat>
+  <Naissance>1916</Naissance>
+  <Status>1996</Status>
+</president>
+
+<president>
+  <image path= "./asset/Jacques_Chirac.jpeg" alt="president"/>
+  <nom>Jacques Chirac</nom>
+  <Mandat>1995-2007</Mandat>
+  <Naissance>1932</Naissance>
+  <Status>2001</Status>
+</president>
+
+<president>
+  <image path= "./asset/Nicolas_Sarkozy.jpeg" alt="president"/>
+  <nom>Nicolas Sarkozy</nom>
+  <Mandat>2007-2012</Mandat>
+  <Naissance>1955</Naissance>
+  <Status>vivant</Status>
+</president>
+
+<president>
+  <image path= "./asset/François_Hollande.jpeg" alt="president"/>
+  <nom>François Hollande</nom>
+  <Mandat>2012-2017</Mandat>
+  <Naissance>1954</Naissance>
+  <Status>vivant</Status>
+</president>
+
+<president>
+  <image path= "./asset/Emmanuel_Macron.jpeg" alt="president"/>
+  <nom>Emmanuel Macron</nom>
+  <Mandat>2017-aujourd'hui</Mandat>
+  <Naissance>1976</Naissance>
+  <Status>Trop jeune</Status>
+</president>
+  
+
+</racine>

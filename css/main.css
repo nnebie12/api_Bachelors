@@ -1,0 +1,42 @@
+@import url(./reset.css);
+
+/*theme*/
+:root{
+    --bgcolor_all : #2d3436;
+    --color-text-header: #fff;
+}
+
+header{
+    line-height: 6.0rem;
+    text-align: center;
+    color: var(--color-text-header);
+    background-color: var(--bgcolor_all);
+    margin-bottom: 5rem;
+    padding: 1rem 0;
+}
+
+/*gallery primary*/
+ul.primary-grid{
+    display: grid;
+    max-width: 100rem;
+    margin: 0 auto;
+    grid-template-columns: repeat(4,1fr);
+    gap: 1rem;
+    background-color: #fafafa;
+    padding: 1rem;
+    box-shadow: 0 0 2 rem var(--bgcolor_all);
+}
+
+ul.primary-grid li figure img{
+    width: 100%;
+    height: 30rem;
+
+}
+
+/* footer*/
+
+footer{
+    text-align: center;
+    line-height: 1rem;
+}
+

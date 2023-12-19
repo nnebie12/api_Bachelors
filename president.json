@@ -1,0 +1,71 @@
+{
+    
+    "president": [
+        {
+            
+            "nom" : "Charles de Gaulles",
+             "mandat" : "1959-1969",
+             "naissance" : "1890",
+             "status" : "1970",
+             "image": "./asset/Charles_de_Gaulles.jpeg",
+             "label" : "voir l'article"
+        },
+        {
+            "nom" : "George Pompidous",
+             "mandat" : "1969-1974",
+             "naissance" : "1911",
+             "status" : "1974",
+             "image": "./asset/George_Pompidou.jpeg",
+             "label" : "voir l'article"
+        },
+        {
+            "nom" : "Valérie Giscard Estaing",
+            "mandat" : "1974-1981",
+            "naissance" : "1926",
+            "status" : "2020",
+            "image": "./asset/Valérie_Giscard_Estaing.jpeg",
+            "label" : "voir l'article"
+        },
+        {
+            "nom" : "François Mitterand",
+            "mandat" : "1981-1995",
+            "naissance" : "1926",
+            "status" : "2020",
+            "image": "./asset/François_Mitterand.jpeg",
+            "label" : "voir l'article"
+        },
+        {
+            "nom" : "Charles de Gaulles",
+            "mandat" : "1959-1969",
+            "naissance" : "1916",
+            "status" : "1996",
+            "image": "./asset/Jacques_Chirac.jpeg",
+            "label" : "voir l'article"
+        },
+        {
+            "nom" : "Jacques Chirac",
+            "mandat" : "1995-2007",
+            "naissance" : "1932",
+            "status" : "2001",
+            "image": "./asset/Nicolas_Sarkozy.jpeg",
+            "label" : "voir l'article"
+        },
+        {
+            "nom" : "Nicolas Sarkozy",
+            "mandat" : "2007-2012",
+            "naissance" : "1955",
+            "status" : "vivant",
+            "image": "./asset/François_Hollande.jpeg",
+            "label" : "voir l'article"
+        },
+        {
+            "nom" : "Emmanuel Macron",
+            "mandat" : "2017-aujourd'hui",
+            "naissance" : "1976",
+            "status" : "Trop jeune",
+            "image": "./asset/Emmanuel_Macron.jpeg",
+            "label" : "voir l'article"
+        }
+        
+    ]
+}
