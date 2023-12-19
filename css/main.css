@@ -40,3 +40,28 @@ footer{
     line-height: 1rem;
 }
 
+/* media queris*/
+
+@media screen and (max-width: 80rem) {
+    ul primary-grid{
+        grid-template-columns: repeat(2,1rem);
+
+    }
+    header h1{
+        font-size: 1.6rem;
+        margin: 0;
+    }
+    
+}
+
+@media  screen and (orientation: landscape) {
+    ul primary-grid{
+        grid-template-columns: repeat(4,1rem);
+
+    }
+    header h1{
+        font-size: xx-large;
+        margin-bottom: 5rem;
+    }
+    
+}
