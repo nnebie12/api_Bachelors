@@ -1,4 +1,9 @@
+import { time } from "./date.js";
+
 document.addEventListener("DOMContentLoaded", e => {
+    console.log(time.dates+' /n'+time.el.innerText);
+    time.printOut()
+
     let xml, xmlhttp, xmlDoc, vliste, myStock;
 
     xmlhttp = new XMLHttpRequest();
